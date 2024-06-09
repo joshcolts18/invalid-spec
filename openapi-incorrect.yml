@@ -1067,7 +1067,7 @@ paths:
                     x-stoplight:
                       id: ds5agfkx834js
                   balances:
-                    $ref: 'components/schemas/LeaveBalances'  # Missing # before /components
+                    $ref: 'components/schemas/LeaveBalances' 
               examples:
                 Example 1:
                   value:
